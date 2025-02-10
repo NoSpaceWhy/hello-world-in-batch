@@ -1,3 +1,5 @@
+:: this is a comment
+
 @echo off :: this removes the dir thinge
 
 echo "Hello world!" :: This outputs Hello World out in the command prompt
